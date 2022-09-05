@@ -1,0 +1,19 @@
+body {
+  background: #F0E68C;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #CD853F;
+}
+
+p {
+  text-align: center;
+  font-size: 23px;
+  margin: 55px 55px 55px 55px;
+}
+
+strong {
+  color: #CD853F; 
+}
