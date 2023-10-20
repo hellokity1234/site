@@ -1,19 +1,42 @@
 body {
-  background: #F0E68C;
+  background: #5384bd;
 }
 
 h1 {
   text-align: center;
   font-size: 50px;
-  color: #CD853F;
+  color: #146d70;
 }
 
 p {
   text-align: center;
   font-size: 23px;
-  margin: 55px 55px 55px 55px;
+  color: rgb(14, 13, 13);
 }
+img{
+  width: 300px;
+  margin-left: 100px;
+}
+.cabecalho{
+  background-color: rgb(25, 77, 122);
+  display: flex;
+ }
+.logocapi{
+ width: 150px;
 
+ }
+.lista_cabecalho{
+  display: flex;
+  margin-left: 500px;
+
+}
+.item_lista_cabecalho{
+  color: rgb(182, 199, 216);
+  list-style: none;
+  text-transform: uppercase;
+  font-size: 10px;
+  padding: 5px;
+}
 strong {
-  color: #CD853F; 
+  color: #146d70; 
 }
